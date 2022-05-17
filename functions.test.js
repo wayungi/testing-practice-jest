@@ -1,0 +1,1 @@
+const stringLength = reqquire('./functions.js');

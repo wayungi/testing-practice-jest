@@ -1,0 +1,23 @@
+{
+  "name": "testing-practice-jest",
+  "version": "1.0.0",
+  "description": "This repository is for learnig tests with jest",
+  "main": "functions.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wayungi/testing-practice-jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wayungi/testing-practice-jest/issues"
+  },
+  "homepage": "https://github.com/wayungi/testing-practice-jest#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
